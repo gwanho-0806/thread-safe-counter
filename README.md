@@ -11,5 +11,7 @@ real	0m0.311s
 user	0m0.169s
 sys	0m0.439s
 
-mutex is faster than semaphore
+mutex is faster than semaphore because mutex allow one process but semaphore allow multiple access. so mutex is faster than semaphore
+
+i use ubuntu
 
